@@ -1,4 +1,4 @@
-# first_week_tasks
+# "first_week_tasks"
 # Ros-inistall-steps
 **#ROS install Steps:**
 1. Download VM VirtualBox 6.1.34 All download steps are by clicking Next, then Install.
@@ -46,7 +46,10 @@ With these commands, Rose was downloaded successfully. To make sure, we type the
 roscore
 ```
 <img src="https://user-images.githubusercontent.com/96728070/177590897-8dc686f2-cc2c-453b-97ed-7b1b799f75a5.jpg" width="350" height="350" >
-# second task install xubuntu in Jetson Nano 
+
+
+
+# "second task install xubuntu in Jetson Nano" 
 1. From the following link, you can download Xubuntu 20.04.4:                                                   
 https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2
 2. after we download both Should be write xubuntu to flash or card useing balena:                                                                 
